@@ -1,0 +1,1 @@
+ERRMSG_ARGUMENT_OUTOFRANGE = "引数の値が正常範囲外です"
