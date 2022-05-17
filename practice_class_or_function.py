@@ -10,6 +10,7 @@ user = UserProfile("佐藤", "35", "男")
 print(user.name)
  
  
+# test
 # 関数をコンストラクタのように使う
 def userProfile(name, age, gender):
     user_profile = {}
